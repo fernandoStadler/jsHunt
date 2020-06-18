@@ -36,7 +36,7 @@ export default class Product extends Component {
 
                 <p>
 
-                    URL: <a href={product.url}>{product.url}</a>
+                    URL: <a href={product.url} target="_blank">{product.url}</a>
 
                 </p>
 

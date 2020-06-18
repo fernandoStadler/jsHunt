@@ -8,7 +8,8 @@
 
 .product-list article {
 
-    background: #fff;
+    background: rgb(68, 68, 68);
+    color: #FFF;
     border: 1px solid #ddd;
     border-radius: 5px;
     padding: 20px;
@@ -18,7 +19,7 @@
 .product-list p {
 
     font-size: 16px;
-    color: #999;
+    color: #FFF;
     margin-top: 5px;
     line-height: 24px;
 }
@@ -27,7 +28,7 @@
 
     height: 42px;
     border-radius: 5px;
-    border: 2px solid #da552f;
+    border: 2px solid #cc0b0b;
     background: none;
     margin-top: 10px;
     color: #da552f;

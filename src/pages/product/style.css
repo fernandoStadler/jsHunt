@@ -4,33 +4,33 @@
     max-width: 700px;
     margin: 20px auto 0;
     padding: 0 20px;
-  
-
-}
-
-.product-info  {
-
-    background: #fff;
+    background: rgb(68, 68, 68);
     border: 1px solid #ddd;
     border-radius: 5px;
     padding: 20px;
     margin-bottom: 20px;
+    color: #FFF;
+  
+
 }
+
+
 
 .product-info p {
 
     font-size: 16px;
-    color: #999;
+    color: #FFF;
     margin-top: 5px;
     line-height: 24px;
 }
 
 
 
-.product-info .action{
-    display: flex;
-    justify-content: space-between;
-    margin-top: 20px;
+.product-info a{
+
+    color: #FFF;
+    text-decoration: none;
+ 
 
 }
 
@@ -44,6 +44,10 @@
     font-size: 16;
     font-weight: bold;
     cursor: pointer;
+
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
 
 }
 
