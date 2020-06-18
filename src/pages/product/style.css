@@ -34,6 +34,14 @@
 
 }
 
+
+.product-info a:hover{
+
+    color: rgb(199, 199, 199);
+    text-decoration:underline;
+ 
+
+}
 .product-info .action {
 
     padding: 10px;

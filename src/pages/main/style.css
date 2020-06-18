@@ -43,7 +43,7 @@
 }
 .product-list article a:hover{
     background: #da552f;
-    color: #FFF;
+    color: rgb(229, 214, 240);
 }
 
 .product-list .action{
