@@ -1,0 +1,34 @@
+footer#main-footer{
+    width: 100%;
+    height: 60px;
+    background: #da552f;
+    font-size: 15px;
+    font-weight: bold;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+   
+}
+
+footer#main-footer a{
+ text-decoration: none;
+ color: #fff;
+ padding: 5px;
+
+}
+
+
+header#main-footer a:hover{
+    text-decoration: none;
+    color: rgb(204, 204, 204);
+    padding: 5px;
+   
+   }
+   
+.space{
+    height: 800px;
+}   
+   
+
